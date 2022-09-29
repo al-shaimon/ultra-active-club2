@@ -45,15 +45,15 @@ const Information = ({ cart }) => {
       </div>
       <div className="personal-info row text-center m-3 text-white py-2">
         <div className="col">
-          <p className="info  fw-bold fs-5">55 kg</p>
+          <p className="info  fw-bold fs-5">68 kg</p>
           <p>Weight</p>
         </div>
         <div className="col">
-          <p className="info  fw-bold fs-5">5.2</p>
+          <p className="info  fw-bold fs-5">5.10 ft</p>
           <p>Height</p>
         </div>
         <div className="col">
-          <p className="info  fw-bold fs-5">22 yrs</p>
+          <p className="info  fw-bold fs-5">20 yrs</p>
           <p>Weight</p>
         </div>
       </div>
@@ -78,7 +78,7 @@ const Information = ({ cart }) => {
       <div className="excersize-container mb-5 ">
         <h3 className="mx-3 mt-5">Exercise Details</h3>
         <div className="excersize-details d-flex justify-content-between m-3 p-3 flex-sm-column  flex-md-row flex-lg-row text-white">
-          <h5>Excersize time</h5>
+          <h5>Exercise time</h5>
           <p>{time} seconds</p>
         </div>
         <div className="excersize-details d-flex justify-content-between m-3 p-3 text-white flex-sm-column  flex-md-row flex-lg-row ">

@@ -16,7 +16,6 @@ const Body = () => {
   const addTimeHandle = (workout) => {
     const array = [0, 1, 2, 3, 4, 5];
     setCart([...cart, workout]);
-    // const newNumber = array.map(arr=>console.log(arr))
   };
 
   return (

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "633497949361887b08346222",
+    "name": "Dumbbell",
+    "time": 26,
+    "img": "https://tinyurl.com/2p86vapx",
+    "age": 25
+  },
+  {
+    "id": "6334979477dee127ec2548f4",
+    "name": "Weight Plate",
+    "time": 15,
+    "img": "https://tinyurl.com/yfp6cmbw",
+    "age": 25
+  },
+  {
+    "id": "633497940912a0191f31a391",
+    "name": "Trademill",
+    "time": 21,
+    "img": "https://tinyurl.com/3tec3hmr",
+    "age": 32
+  },
+  {
+    "id": "63349794423c6390b0ece674",
+    "name": "Pull-down",
+    "time": 28,
+    "img": "https://tinyurl.com/mr25ejyz",
+    "age": 38
+  },
+  {
+    "id": "63349794b53183d5209af337",
+    "name": "Leg-curl",
+    "time": 30,
+    "img": "https://tinyurl.com/2p8cyhc7",
+    "age": 29
+  },
+  {
+    "id": "6334979419e0330b35610827",
+    "name": "Elliptical trainer",
+    "time": 19,
+    "img": "https://tinyurl.com/4hacrhfk",
+    "age": 26
+  }
+]
