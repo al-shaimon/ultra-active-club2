@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Body.css";
-import Workout from "../Workout/Workout";
+// import Workout from "../Workout/Workout";
 import Information from "../Information/Information";
 
 const Body = () => {
@@ -23,7 +23,7 @@ const Body = () => {
     <div className="m-5">
       <div className="body-container row">
         <div className="right-container col-8">
-          <h3 className="title m-5">Select Today's Workout</h3>
+          <h3 className="title m-5">Today's Workout</h3>
           <div className="workouts-container row row-cols-1 row-cols-lg-2 row-cols-xl-3 row-col-md-2 g-4 m-5">
             {workouts.map((workout) => (
               <Workout
