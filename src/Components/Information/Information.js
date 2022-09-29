@@ -26,7 +26,6 @@ const Information = ({ cart }) => {
     }
   }, []);
 
-  // let value ='0s';
   const breakTime = (e) => {
     let breaktime = e.target.innerText;
 
