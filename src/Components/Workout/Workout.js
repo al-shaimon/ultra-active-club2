@@ -1,4 +1,4 @@
-// import React, { useState } from "react";
+import React, { useState } from "react";
 import "./Workout.css";
 
 const Workout = ({ workout, addTimeHandle }) => {
