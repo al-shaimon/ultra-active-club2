@@ -1,0 +1,14 @@
+body {
+  background-color: #e5fbeba3;
+}
+.logo,
+.navbar-nav a {
+  cursor: pointer;
+  color: #04aa6d;
+  transition: 0.3s ease-in-out;
+}
+
+.link-container a:hover,
+.logo:hover {
+  color: #17252a;
+}
