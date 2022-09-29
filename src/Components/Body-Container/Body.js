@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Body.css";
-// import Workout from "../Workout/Workout";
+import Workout from "../Workout/Workout";
 import Information from "../Information/Information";
 
 const Body = () => {
